@@ -14,11 +14,11 @@ Sample custom Vimeo site using Vimeo videos from [http://nodetuts.com/](http://n
 
 # Installation
 
-    mkdir myapp
-    cd myapp/
-    jitsu install custom-vimeo-site
+Unmaintained, so not available via `jitsu install`. You can still clone the app to check it out:
 
-*If you do not have `jitsu` installed you can install it via `npm install jitsu -g`*
+    git clone git://github.com/nodeapps/custom-vimeo-site.git custom-vimeo-site
+    cd custom-vimeo-site/
+    node bin/server
 
 # Configuration
 
